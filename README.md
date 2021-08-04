@@ -12,7 +12,7 @@ Um aplicativo de cartões de visita para Android que permite ao usuário criar, 
 Clone esse repositório e importe em seu **Android Studio**
 
 ```sh
-git clone https://github.com/edufelip/business-card.git
+git clone https://github.com/RodrigDev/Business-Card-DIO.git
 ```
 
 ## Layouts
